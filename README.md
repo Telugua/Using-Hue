@@ -18,6 +18,11 @@
 
 ![openHue](/images/openHue.PNG)
 
-- After clicking on Hue on the navigation bar you will be asked to login to a Hue use username and password as cloudera
+- After clicking on Hue on the navigation bar you will be asked to login to Hue use username and password as cloudera
 
 ![LoginHue](/images/LoginHue.PNG)
+
+- on the left side of screen select Hive from sources
+![sources](/images/sources.PNG)
+
+
