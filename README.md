@@ -16,3 +16,5 @@
 ## Workshop Guide:
 - Open browser in cloudera virtual machine and select Hue at the top of navigation bar
 
+![openHue](/images/openHue.PNG)
+
