@@ -10,5 +10,5 @@
 1. Abhishek Telugu
 1. Nandini Yadav Janga
 1. Chaitra Vemula
-- [](https://github.com/Telugua/Using-Hue/blob/master/TeamSlide.PNG)
+![teamSlide](https://github.com/Telugua/Using-Hue/blob/master/TeamSlide.PNG)
 
