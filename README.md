@@ -34,7 +34,7 @@
 
 ![warehouse](/images/Warehouse.PNG)
 
-- Upload a file in warehouse folder by using uplooad option on the right of the screen.
+- Upload a file in warehouse folder by using upload option on the right of the screen.
 
 ![Upload](/images/Upload.PNG)
 
