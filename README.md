@@ -70,7 +70,11 @@
 
 ![Results](/images/Results.PNG)
 
-- In this way we can use Hue to write and execute queries in HIve.
+- In this way we can use Hue to write and execute queries in Hive.
+
+##References
+
+- https://docs.cloudera.com/documentation/enterprise/5-9-x/topics/hue.html
 
 
 
