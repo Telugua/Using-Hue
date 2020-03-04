@@ -23,6 +23,16 @@
 ![LoginHue](/images/LoginHue.PNG)
 
 - on the left side of screen select Hive from sources
+
 ![sources](/images/sources.PNG)
+
+- Go to file browser by selecting menu icon on the left side of screen in previous image. By clicking on the menu icon we will get   different options in which one option would be files you will go to file browser by clicking on files. Go to user directory and select Hive.
+
+![files](/images/Files.PNG)
+
+
+
+
+
 
 
