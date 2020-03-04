@@ -72,7 +72,7 @@
 
 - In this way we can use Hue to write and execute queries in Hive.
 
-##References
+## References
 
 - https://docs.cloudera.com/documentation/enterprise/5-9-x/topics/hue.html
 
